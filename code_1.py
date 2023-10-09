@@ -1,71 +1,30 @@
-import random
-
-        print(f"Random Number: {item}")
-def generate_random_data():
-
+    data = [random.randint(1, 100) for _ in range(10)]
 if __name__ == "__main__":
-    return data
 def main():
+    for item in data:
+        print(f"Random Number: {item}")
+
+    return data
+
+
     data = generate_random_data()
 
-    data = [random.randint(1, 100) for _ in range(10)]
-    main()
-
-    for item in data:    }
-    data.forEach(item => {
-
-    const data = generateRandomData();
-    const data = [];
-        data.push(Math.floor(Math.random() * 100) + 1);
-}
-main();
-function generateRandomData() {
-function main() {
-        console.log("Random Number: " + item);
-    });
-
-
-}
-    return data;
-    for (let i = 0; i < 10; i++) {    return data;
-    });
-        console.log("Random Number: " + item);
-}
-    const data = [];
-}
-    for (let i = 0; i < 10; i++) {
-    }
-function main() {
-function generateRandomData() {
-    const data = generateRandomData();
-main();
-
-
-        data.push(Math.floor(Math.random() * 100) + 1);
-    data.forEach(item => {
-
-def main():
-    main()
-if __name__ == "__main__":
-    for item in data:
-
-
-import random
-    return data
-
-        print(f"Random Number: {item}")
 def generate_random_data():
-    data = [random.randint(1, 100) for _ in range(10)]
-    data = generate_random_data()public class RandomDataGenerator {
-            data[i] = (int) (Math.random() * 100) + 1;
+    main()
+import random
+        console.log("Random Number: " + item);
 }
-        for (int i = 0; i < 10; i++) {
-
+function main() {
+    });
+}
+    data.forEach(item => {
     }
-        int[] data = new int[10];
-    public static void main(String[] args) {
 
-            System.out.println("Random Number: " + item);
-        }
-        for (int item : data) {
-        }
+
+    for (let i = 0; i < 10; i++) {
+    const data = generateRandomData();
+function generateRandomData() {
+        data.push(Math.floor(Math.random() * 100) + 1);
+    return data;
+main();
+    const data = [];
